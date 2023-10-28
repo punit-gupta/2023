@@ -1,0 +1,10 @@
+Q1. How many types of joins in SQL and syntax of all joins ?
+Q2. How to create table in SQL and how to insert values ?
+Q3. Update Syntax ?
+Q4. What is a View? 
+Q5. What is the difference between DELETE and TRUNCATE commands?
+Q6. DDL and DML commands name ?
+Q7. Primary Key syntax and its uses ?
+Q8. HOw to use Aggreate function in sql like (Count,SUM)
+Q9. How to use wher clause in SQL ?
+Q10. Difference between group by and having and how to use these in query ?
